@@ -1,4 +1,4 @@
-# Lets start continual learning!
+# Let's start continual learning!
 
 This repository provides a blank continual/incremental learning template. The template does not add any continual/incremental learning strategy and uses finetuning for incremental learning.
 
